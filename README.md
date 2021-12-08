@@ -1,9 +1,10 @@
 # AppiumMobileOtomationTest
 
 
-Özdilekteyim mobil uygulama testi
+-Özdilekteyim mobil uygulama testi
 
-#
+#Senaryomuz
+
 -“Özdilekteyim” uygulaması açılır
 - Uygulamanın açıldığı kontrol edilir
 -Alışverişe başla butonuna tıklanır
