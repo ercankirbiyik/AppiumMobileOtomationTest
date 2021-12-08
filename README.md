@@ -2,8 +2,10 @@
 
 
 -Özdilekteyim mobil uygulama testi
+-----------------
 
-#Senaryomuz
+Senaryomuz
+-----------------
 
 -“Özdilekteyim” uygulaması açılır
 - Uygulamanın açıldığı kontrol edilir
