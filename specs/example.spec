@@ -50,3 +50,5 @@ Login-Alışverişe başla
 * "2" saniye bekle
 * "com.ozdilek.ozdilekteyim:id/etPassword" id'li elemete "123456" text değerini yaz
 * "2" saniye bekle
+
+
